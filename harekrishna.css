@@ -1,0 +1,33 @@
+body { 
+    background: url('lordKrishna.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+} 
+
+.chapter{
+    height: 2vw;
+    width: 100%;
+    font-weight: bold;
+    font-size: 2vw;
+}
+
+.textNo{
+    height: 2vw;
+    width: 100%;
+    font-weight: bold;
+    font-size:1.5vw;
+}
+
+
+.mainBody{
+    height: 2vw;
+    width: 100%;
+    margin-top: 35vw;
+}
+
+#mainContent{
+    font-weight: bold;
+    font-size:1.5vw;
+}
